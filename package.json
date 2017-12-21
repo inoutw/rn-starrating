@@ -1,0 +1,19 @@
+{
+  "name": "rn-starrating",
+  "version": "1.0.0",
+  "description": "react native component for star rating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "start-rating"
+  ],
+  "author": "AiQingmin",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.51.0"
+  }
+}
